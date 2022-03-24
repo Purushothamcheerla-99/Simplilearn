@@ -1,1 +1,1 @@
-# Simplilearn Project of JAVA Full-stack Development
+# Simplilearn Projects of JAVA Full-stack Development
